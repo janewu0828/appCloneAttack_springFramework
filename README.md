@@ -18,7 +18,7 @@ spring framework
 。Java -version
 。mvn -v
 
-==============================
+成功訊息應如下：
 C:\Users\Jane>mvn -v
 Apache Maven 3.2.3 (33f8c3e1027c3ddde99d3cdebad2656a31e8fdf4; 2014-08-12T04:58:10+08:00)
 Maven home: C:\gs-maven-android-master\initial\apache-maven-3.2.3\bin\..
@@ -26,7 +26,7 @@ Java version: 1.8.0_05, vendor: Oracle Corporation
 Java home: C:\Program Files\Java\jdk1.8.0_05\jre
 Default locale: zh_TW, platform encoding: MS950
 OS name: "windows 7", version: "6.1", arch: "amd64", family: "dos"
-==============================
+
 
 建立第一個HelloWorld專案：
 
